@@ -1,0 +1,23 @@
+{
+  "name": "st-john-tx",
+  "version": "1.0.0",
+  "description": "Saint John Baptist Unleashed",
+  "main": "any",
+  "scripts": {
+    "test": "A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheChurchOnline/st-john-tx.git"
+  },
+  "keywords": [
+    "cedar-street-app"
+  ],
+  "author": "The Church Online",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheChurchOnline/st-john-tx/issues"
+  },
+  "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-inappbrowser.git",
+  "homepage": "https://github.com/TheChurchOnline/st-john-tx#readme"
+}

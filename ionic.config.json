@@ -1,0 +1,7 @@
+{
+  "name": "Cedar Street App",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "custom"
+}
