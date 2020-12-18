@@ -29,7 +29,7 @@
     <plugin name="cordova-plugin-dialogs" source="npm" spec="2.0.1" />
     <plugin name="cordova-plugin-file" source="npm" spec="4.3.1" />
     <plugin name="cordova-plugin-file-transfer" source="npm" spec="1.6.1" />
-    <plugin name="cordova-plugin-inappbrowser" source="npm" spec="2.0.1" />
+    <!--<plugin name="cordova-plugin-inappbrowser" source="npm" spec="2.0.1" />-->
     <plugin name="cordova-plugin-network-information" source="npm" spec="2.0.1" />
     <plugin name="cordova-plugin-splashscreen" source="npm" spec="5.0.1" />
     <plugin name="cordova-plugin-actionsheet" source="npm" spec="2.3.3" />
@@ -38,6 +38,7 @@
     <plugin name="cordova-plugin-wkwebview-engine"  source="npm" /> 
     <plugin name="cordova-plugin-wkwebview-file-xhr"  source="npm" /> 
     <plugin name="cordova-plugin-media" spec="3.0.1" />
+    <plugin name="cordova-plugin-inappbrowser" spec="https://github.com/kleeb/cordova-plugin-inappbrowser.git" source="git"/>
     <!--MEDIA-DONOTREMOVE-->
     <!--CAMERA-DONOTREMOVE-->
     <!--GEO-DONOTREMOVE-->
