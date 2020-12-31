@@ -1,10 +1,10 @@
 {
-  "name": "st-john-tx",
+  "name": "st-john-tx-app",
   "version": "1.0.0",
   "description": "Saint John Baptist Unleashed",
   "main": "any",
   "scripts": {
-    "test": "A"
+    "test": "C"
   },
   "repository": {
     "type": "git",
