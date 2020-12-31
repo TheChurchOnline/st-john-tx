@@ -41,10 +41,6 @@
     <!--MEDIA-DONOTREMOVE-->
     <!--CAMERA-DONOTREMOVE-->
     <!--GEO-DONOTREMOVE-->
-    <plugin name="phonegap-plugin-push" spec="2.2.3" source="npm">
-        <param name="SENDER_ID" value="513455063671" />
-    </plugin>
-    <platform name="android"><resource-file src="google-services.json" target="app/google-services.json" /></platform>
 
     <!--ADMOBSDK-DONOTREMOVE-->
     <!--ADMOBPLUGINIOS-DONOTREMOVE-->
