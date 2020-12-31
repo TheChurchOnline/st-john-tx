@@ -11,7 +11,8 @@
     "url": "git+https://github.com/TheChurchOnline/st-john-tx.git"
   },
   "keywords": [
-    "st-john-tx"
+    "st-john-tx",
+    "app"
   ],
   "author": "The Church Online",
   "license": "ISC",
