@@ -7,8 +7,8 @@
     id="com.stjohntx.app"
     version="1.0.0">
    
-   <name>St. John Baptist Unleashed</name>
-   <description><![CDATA[St. John Baptist Unleashed]]></description>
+   <name>St. John Baptist Church Unleashed</name>
+   <description><![CDATA[St. John Baptist Church Unleashed]]></description>
    <author href="https://thechurchonline.com" email="tordonio@thechurchonline.com">Timothy Ordonio</author>
 
     <platform name="ios" />

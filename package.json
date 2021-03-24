@@ -1,7 +1,7 @@
 {
   "name": "st-john-tx-app",
   "version": "1.0.0",
-  "description": "Saint John Baptist Unleashed",
+  "description": "Saint John Baptist Church Unleashed",
   "main": "any",
   "scripts": {
     "test": "C"
